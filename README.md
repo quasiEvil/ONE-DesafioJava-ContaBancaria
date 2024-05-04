@@ -4,6 +4,9 @@
 
 ## Desafio Conta Bancária Virtual
 Implementar uma aplicação para controlar uma conta bancária.
+<br>Desafio proposto na última aula do curso [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao).
+
+👩🏻‍🎓 [Certificado de conclusão](https://cursos.alura.com.br/user/quasiEvil/course/java-criando-primeira-aplicacao/certificate)
 
 ## Objetivos do projeto
 - Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
